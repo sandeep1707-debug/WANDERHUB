@@ -5,7 +5,7 @@
 ![WanderHub Banner](https://github.com/user-attachments/assets/a9786c41-695f-434f-bf78-98bb8d206b26)
 
 ## 🌐 Live Demo
-👉 [https://akshithareddy005.github.io/WANDERHUB/](https://akshithareddy005.github.io/WANDERHUB/)
+👉 [https://github.com/sandeep1707-debug/WANDERHUB](https://github.com/sandeep1707-debug/WANDERHUB)
 
 ---
 
